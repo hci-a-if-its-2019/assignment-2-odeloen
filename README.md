@@ -12,7 +12,10 @@ Be sure to label the different versions so you can differentiate them in your di
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+![Scan/Photo of Sketches](/img/original)
+![Scan/Photo of Sketches](/img/solution1)
+![Scan/Photo of Sketches](/img/solution2)
+![Scan/Photo of Sketches](/img/solution3)
 
 ### 2. Version Differences
 ```
