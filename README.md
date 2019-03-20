@@ -7,14 +7,16 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
-
+Original  
 ![Original](/img/original.jpg)
+
+Solution 1  
 ![Solution 1](/img/solution1.jpg)
+
+Solution 2  
 ![Solution 2](/img/solution2.jpg)
+
+Solution 3  
 ![Solution 3](/img/solution3.jpg)
 
 ### 2. Version Differences
@@ -35,36 +37,27 @@ Solution 3
 In solution number three. The choices do not have the outer indicator, they just have a special effects when the mouse is hovering over them.  
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+
+Personally, i prefer solution 2 as the selected sketch. Because the design is simple, easy to be implemented, eye catching, and informative.  
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+
+The main problem with the original design is the lack of indicator that the user can receive so they can imply that this is a portal page not a main page or an error page.  
+
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+
+Physical Input : Mouse and Keyboard  
+Screen Size : 14 inch  
+Screen Resolution : Mininimal (1366 x 768)  
+Screen Color Space : RGB  
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+
 Experience Level : Novice, proficient in using keyboard, mouse, and a browser  
 Age : 12+  
+Actually, if the user actually acessing this web for learning purposes, i expect the user is interested in computer science.  
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
