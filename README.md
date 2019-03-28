@@ -60,4 +60,4 @@ Age : 12+
 Actually, if the user actually acessing this web for learning purposes, i expect the user is interested in computer science.  
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+https://projects.invisionapp.com/freehand/document/BwENZTKTc
