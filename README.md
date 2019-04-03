@@ -60,4 +60,5 @@ Age : 12+
 Actually, if the user actually acessing this web for learning purposes, i expect the user is interested in computer science.  
 
 ## Part C: Prototypes
-https://projects.invisionapp.com/freehand/document/BwENZTKTc
+Low Fidelity : https://projects.invisionapp.com/freehand/document/BwENZTKTc  
+High Fidelity : https://xd.adobe.com/view/24c0d3e7-213b-4352-4d3b-bbe180e6be2a-52f1/
